@@ -1,0 +1,5 @@
+Link para download do Sublime Text: https://www.sublimetext.com/3
+O Sublime Text é um editor de texto sofisticado para código, marcação e prosa.
+
+Link para download do Git:https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git.
